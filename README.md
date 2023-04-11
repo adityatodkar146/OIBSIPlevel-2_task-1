@@ -1,2 +1,3 @@
-# wab-development
-oasis
+# task 1
+calculator
+
